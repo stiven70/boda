@@ -12,6 +12,9 @@
 	.gallery-box ul li{
 		width: 33.33%;
 	}
+	.img-invitacion {
+		width: 100%;
+	}
 }
 
 /* mobile or only mobile */
@@ -66,5 +69,8 @@
 	}
 	.gallery-box ul li{
 		width: 50%;
+	}
+	.img-invitacion {
+		width: 100%;
 	}
 }

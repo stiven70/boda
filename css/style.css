@@ -150,7 +150,7 @@ button:focus{
 
 
 /*------------------------------------------------------------------
-    LOADER 
+    LOADER
 -------------------------------------------------------------------*/
 
 #preloader {
@@ -263,7 +263,7 @@ button:focus{
     clip: rect(0, 300px, 100px, 0);
     opacity:0;
  }
-  
+
 }
 
 .pulse {
@@ -426,12 +426,20 @@ button:focus{
 	background: #dd666c;
 }
 
+.img-invitacion {
+	width: 60%;
+}
+
 /*------------------------------------------------------------------
     About
 -------------------------------------------------------------------*/
 
-.about-box{
-	padding: 70px 0px;
+.about-box {
+	padding: 20px 0px;
+}
+
+.about-box2 {
+	padding-top: 30px;
 }
 
 .title-box{
@@ -608,7 +616,6 @@ button:focus{
 	padding: 70px 0px;
 }
 
-.gallery-box ul{}
 .gallery-box ul li{
 	position: relative;
 	width: 25%;
@@ -699,7 +706,7 @@ button:focus{
 .contact-box{
 	padding: 70px 0px;
 }
-.contact-block{}
+/* .contact-block{} */
 
 .contact-block .form-group .form-control{
 	background: #e6eceb;
